@@ -1,0 +1,10 @@
+name: shinyapp
+title:
+username:
+account: acs46
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 291206
+bundleId: 1247674
+url: https://acs46.shinyapps.io/shinyapp/
+when: 1519940207.42253

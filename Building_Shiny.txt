@@ -1,0 +1,36 @@
+# Brief Overview of building a Shiny App using PHP & MySQL
+
+from Gallery
+simple model of linear regression
+CDC disease frequency
+Genome Browser
+R graph catalog
+
+
+Connect your github account to shinyapps.io
+https://www.shinyapps.io/admin/#/dashboard
+install.packages('rsconnect')
+
+ library(rsconnect)
+> rsconnect::deployApp('/Users/astuart/Google Drive/R/Shiny/shinyapp/ui.R')
+
+
+Connect to MySQL
+install.packages("DBI")
+install.packages("RMySQL")
+install.packages("dplyr")
+install.packages("dbplyr")
+install.packages("pool")
+
+https://shiny.rstudio.com/articles/overview.html
+
+
+User Interface Page
+
+Insert interactive user input
+
+
+
+Show Results
+
+Plot Graph using R
